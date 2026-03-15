@@ -9,7 +9,7 @@ This repository contains the MATLAB implementations for the Aeroservoelasticity 
 
 ### Workshop 2: Puma Helicopter Blade Stability
 * **Objective:** Aeroelastic study of the pitch-flap coupling in a Puma helicopter blade.
-* **Analysis:** Generated comprehensive stability maps to analyze the effects of varying the pitch link stiffness and the blade's Center of Gravity (CG) offset. Evaluated the impact of modal truncation (varying the number of modes) and different aerodynamic assumptions (e.g., vectorial Theodorsen function).
+* **Analysis:** Generated comprehensive stability maps to analyze the effects of varying the pitch link stiffness and the blade's Center of Gravity (CG) offset. Evaluated the impact of modal truncation (varying the number of modes) and different aerodynamic assumptions (e.g., Theodorsen's unsteady aerodynamic model).
 * **Implementation:** The MATLAB code is highly optimized, leveraging orthogonal Legendre polynomials, pre-computed structural matrices, and parallel computing (`parfor`) to drastically reduce the execution time of heavy iterative parameter sweeps.
 
 ### Workshop 3: Limit Cycle Oscillations (LCO)
