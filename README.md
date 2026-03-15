@@ -15,6 +15,6 @@ This repository contains the MATLAB implementations for the Aeroservoelasticity 
 ### Workshop 3: Limit Cycle Oscillations (LCO)
 * **Team:** Co-developed with Alberto Rivero García and Alejandro Rivera Míguez.
 * **Objective:** Non-linear aeroelastic analysis of the Goland Wing model. 
-* **Focus:** Investigated the Limit Cycle Oscillations (LCO) triggered by a structural non-linearity, specifically simulating the presence of free-play in the control surface hinge.
+* **Focus:** Investigated the Limit Cycle Oscillations (LCO) triggered by a structural non-linearity by use of a Sinusoidal Describing Function, specifically simulating the presence of free-play in the control surface hinge.
 
 
