@@ -4,7 +4,7 @@ This repository contains the MATLAB implementations for the Aeroservoelasticity 
 
 ### Workshop 1: Goland Wing Flutter & Control Effectiveness
 * **Objective:** Developed a solver for the flutter problem in the Goland Wing model.
-* **Methods:** Implemented standard *k* and *p-k* methods to determine the flutter velocity and damping loops.
+* **Methods:** Implemented standard *k* and *p-k* methods to determine the flutter velocity and damping values.
 * **Extended Analysis:** Studied the aeroelastic influence of adding a rigid control surface, analyzing the shifts in flutter velocity, divergence, and control reversal boundaries.
 
 ### Workshop 2: Puma Helicopter Blade Stability
